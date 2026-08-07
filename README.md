@@ -71,7 +71,7 @@
 
 # 🌸 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ5NDBnYmxmZmZsdGh6Zm53MW1waDJtMGlrZnVjbjJhd2s0bTNyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
+<img align="right" width="400" src="https://skillicons.dev/icons?i=python,java,sql,aws,fastapi,tensorflow,pytorch,sklearn,opencv,pandas,numpy,git,github,vscode,matplotlib,plotly&perline=4"/>
 
 ```python
 class PriyankaPanda:
