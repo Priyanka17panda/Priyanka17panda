@@ -243,8 +243,6 @@ Ask Me About:
 
 🧠 Improving System Design & DSA
 ```
-
----
 <h2 align="center">⚡ Tech Arsenal</h2>
 
 <div align="center">
@@ -253,67 +251,107 @@ Ask Me About:
 
 <tr>
 
-<td align="center" width="25%">
-
-### 🤖 AI & ML
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/LightGBM-7C3AED?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡ Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb,firebase&theme=dark"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite"/>
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square"/>
-
-</td>
-
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark"/>
 
 <br>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
 
 <img src="https://img.shields.io/badge/MATLAB-orange?style=flat-square"/>
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="20%">
 
-### 🛠 Tools
+### 📊 Data Science
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/EDA-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Data_Preprocessing-2563EB?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Feature_Engineering-0EA5E9?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Statistical_Analysis-9333EA?style=flat-square"/>
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LightGBM-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/NLP-059669?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LLM-8B5CF6?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LSTM-EC4899?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Time_Series-0891B2?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/SHAP-F97316?style=flat-square"/>
+
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️ Frameworks
+
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+
+</td>
+
+<td align="center" width="20%">
+        
+### ⚙️ Backend & Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,aws&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+</p>
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
 </td>
 
@@ -323,312 +361,6 @@ Ask Me About:
 
 </div>
 
----
-<h2 align="center">🚀 Featured Projects</h2>
-
-<br>
-
-<table width="100%">
-
-<tr>
-
-<td width="100%">
-
-## 📊 DataLens — AI Powered Dataset Analysis Platform
-
-AI-powered web platform that transforms raw datasets into meaningful insights through automated EDA, intelligent recommendations and conversational analytics.
-
-### ✨ Features
-
-🔹 Upload CSV & Excel datasets
-
-🔹 Automated Data Cleaning & EDA
-
-🔹 Interactive Plotly Visualizations
-
-🔹 AI Dataset Chat
-
-🔹 ML Model Recommendation
-
-🔹 Smart Dataset Summary
-
-🔹 Risk Detection
-
-🔹 FastAPI Backend
-
-<br>
-
-### 🛠 Tech Stack
-
-`Python`
-`FastAPI`
-`Pandas`
-`Plotly`
-`LLM`
-`HTML`
-`CSS`
-`JavaScript`
-
-<br>
-
-<p align="right">
-
-<a href="YOUR_DATALENS_GITHUB_LINK">
-
-<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table width="100%">
-
-<tr>
-
-<td width="100%">
-
-## 💳 CredGuard — Explainable Credit Risk Prediction
-
-An AI-powered credit risk prediction system using Machine Learning and SHAP Explainable AI.
-
-### ✨ Features
-
-🔹 Credit Risk Prediction
-
-🔹 SHAP Explainability
-
-🔹 Feature Engineering
-
-🔹 Customer Risk Dashboard
-
-🔹 FastAPI Backend
-
-🔹 SQLite Database
-
-🔹 LightGBM Model
-
-🔹 Automated Predictions
-
-<br>
-
-### 🛠 Tech Stack
-
-`Python`
-`FastAPI`
-`LightGBM`
-`SQLite`
-`SHAP`
-`Scikit-learn`
-
-<br>
-
-<p align="right">
-
-<a href="YOUR_CREDGUARD_GITHUB_LINK">
-
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table width="100%">
-
-<tr>
-
-<td width="100%">
-
-## 😊 Drug Review Sentiment Analysis
-
-Healthcare NLP system for analyzing drug reviews using Machine Learning and Deep Learning.
-
-### ✨ Features
-
-🔹 NLP Pipeline
-
-🔹 Text Cleaning
-
-🔹 LightGBM
-
-🔹 LSTM
-
-🔹 Sentiment Dashboard
-
-🔹 Visualization
-
-<br>
-
-### 🛠 Tech Stack
-
-`Python`
-`NLTK`
-`LSTM`
-`LightGBM`
-`Pandas`
-`Matplotlib`
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table width="100%">
-
-<tr>
-
-<td width="100%">
-
-## 🧠 Deepfake Detection
-
-Deep Learning project for identifying fake facial images using CNN.
-
-### ✨ Features
-
-🔹 Face Classification
-
-🔹 CNN Architecture
-
-🔹 TensorFlow
-
-🔹 OpenCV
-
-🔹 Image Processing
-
-🔹 Deep Learning
-
-<br>
-
-### 🛠 Tech Stack
-
-`TensorFlow`
-`Python`
-`CNN`
-`OpenCV`
-
-</td>
-
-</tr>
-
-</table>
-
----
-<h2 align="center">🏆 Achievements</h2>
-
-<table width="100%">
-
-<tr>
-
-<td width="33%">
-
-### 🏅 Certifications
-
-✅ Microsoft AI Skills
-
-✅ Deloitte GenW.AI
-
-✅ Google Networking
-
-✅ Adobe UI/UX
-
-</td>
-
-<td width="33%">
-
-### 🚀 Highlights
-
-⭐ AI & DS Intern
-
-⭐ DataLens
-
-⭐ CredGuard
-
-⭐ AI Projects
-
-</td>
-
-<td width="33%">
-
-### 🎯 Interests
-
-🤖 AI
-
-📊 Data Science
-
-⚡ FastAPI
-
-🧠 LLMs
-
-</td>
-
-</tr>
-
-</table>
-
----
-<h2 align="center">💼 Experience</h2>
-
-<table width="100%">
-
-<tr>
-
-<td width="20%" align="center">
-
-🤖
-
-### Zidio
-
-May 2025
-
-↓
-
-Jul 2025
-
-</td>
-
-<td width="80%">
-
-## AI & Data Science Intern
-
-✔ Built Machine Learning Pipelines
-
-✔ Automated ETL Workflows
-
-✔ Feature Engineering
-
-✔ Time Series Forecasting
-
-✔ FastAPI APIs
-
-✔ Data Analytics Dashboards
-
-✔ Model Optimization
-
-✔ Data Cleaning & EDA
-
-</td>
-
-</tr>
-
-</table>
 ---
 
 <h2 align="center">📊 GitHub Analytics</h2>
