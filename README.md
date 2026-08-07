@@ -245,141 +245,243 @@ Ask Me About:
 ```
 
 ---
+<h2 align="center">⚡ Tech Arsenal</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖 AI & ML
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/LightGBM-7C3AED?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡ Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb,firebase&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,css&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/MATLAB-orange?style=flat-square"/>
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
 <h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-<i>Some projects that I'm really proud of.</i>
+<br>
+
+<table width="100%">
+
+<tr>
+
+<td width="100%">
+
+## 📊 DataLens — AI Powered Dataset Analysis Platform
+
+AI-powered web platform that transforms raw datasets into meaningful insights through automated EDA, intelligent recommendations and conversational analytics.
+
+### ✨ Features
+
+🔹 Upload CSV & Excel datasets
+
+🔹 Automated Data Cleaning & EDA
+
+🔹 Interactive Plotly Visualizations
+
+🔹 AI Dataset Chat
+
+🔹 ML Model Recommendation
+
+🔹 Smart Dataset Summary
+
+🔹 Risk Detection
+
+🔹 FastAPI Backend
+
+<br>
+
+### 🛠 Tech Stack
+
+`Python`
+`FastAPI`
+`Pandas`
+`Plotly`
+`LLM`
+`HTML`
+`CSS`
+`JavaScript`
+
+<br>
+
+<p align="right">
+
+<a href="YOUR_DATALENS_GITHUB_LINK">
+
+<img src="https://img.shields.io/badge/View_Project-7C3AED?style=for-the-badge&logo=github"/>
+
+</a>
+
 </p>
 
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 📊 DataLens
-
-> AI Powered Dataset Analysis Platform
-
-✨ Features
-
-- 📂 Upload CSV & Excel Files
-- 📊 Automatic EDA
-- 🤖 AI-powered Insights
-- 💬 Natural Language Dataset Chat
-- 📈 Interactive Plotly Visualizations
-- ⚡ FastAPI Backend
-
-**Tech Stack**
-
-`Python` `FastAPI` `LLM` `Pandas` `Plotly`
-
-<br>
-
-<a href="YOUR DATALENS GITHUB LINK">
-
-<img src="https://img.shields.io/badge/View_Project-6D28D9?style=for-the-badge"/>
-
-</a>
-
-</td>
-
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="160">
-
 </td>
 
 </tr>
 
 </table>
 
-<br>
+---
 
-<table>
+<table width="100%">
 
 <tr>
 
-<td width="50%">
+<td width="100%">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="150">
+## 💳 CredGuard — Explainable Credit Risk Prediction
 
-</td>
+An AI-powered credit risk prediction system using Machine Learning and SHAP Explainable AI.
 
-<td width="50%">
+### ✨ Features
 
-### 💳 CredGuard
+🔹 Credit Risk Prediction
 
-> Explainable Credit Risk Prediction
+🔹 SHAP Explainability
 
-✨ Features
+🔹 Feature Engineering
 
-- 📈 Credit Risk Prediction
-- 📊 SHAP Explainability
-- ⚡ FastAPI Backend
-- 💾 SQLite Database
-- 🤖 Machine Learning Models
+🔹 Customer Risk Dashboard
 
-**Tech Stack**
+🔹 FastAPI Backend
+
+🔹 SQLite Database
+
+🔹 LightGBM Model
+
+🔹 Automated Predictions
+
+<br>
+
+### 🛠 Tech Stack
 
 `Python`
-
-`LightGBM`
-
 `FastAPI`
-
+`LightGBM`
 `SQLite`
-
 `SHAP`
+`Scikit-learn`
 
 <br>
 
-<a href="YOUR CREDGUARD GITHUB LINK">
+<p align="right">
 
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+<a href="YOUR_CREDGUARD_GITHUB_LINK">
+
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github"/>
 
 </a>
 
+</p>
+
 </td>
 
 </tr>
 
 </table>
 
-<br>
+---
 
-<table>
+<table width="100%">
 
 <tr>
 
-<td width="50%">
+<td width="100%">
 
-### 😊 Drug Review Sentiment Analysis
+## 😊 Drug Review Sentiment Analysis
 
-> NLP based Healthcare Sentiment Analysis
+Healthcare NLP system for analyzing drug reviews using Machine Learning and Deep Learning.
 
-✨ Features
+### ✨ Features
 
-- 📝 NLP Pipeline
-- 🤖 LightGBM
-- 🧠 LSTM
-- 📊 Sentiment Dashboard
+🔹 NLP Pipeline
 
-**Tech Stack**
+🔹 Text Cleaning
+
+🔹 LightGBM
+
+🔹 LSTM
+
+🔹 Sentiment Dashboard
+
+🔹 Visualization
+
+<br>
+
+### 🛠 Tech Stack
 
 `Python`
-
-`NLP`
-
+`NLTK`
 `LSTM`
-
 `LightGBM`
-
-</td>
-
-<td width="50%">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="150">
+`Pandas`
+`Matplotlib`
 
 </td>
 
@@ -387,39 +489,39 @@ Ask Me About:
 
 </table>
 
-<br>
+---
 
-<table>
+<table width="100%">
 
 <tr>
 
-<td width="50%">
+<td width="100%">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="150">
+## 🧠 Deepfake Detection
 
-</td>
+Deep Learning project for identifying fake facial images using CNN.
 
-<td width="50%">
+### ✨ Features
 
-### 🧠 Deepfake Detection
+🔹 Face Classification
 
-> CNN Based Image Classification
+🔹 CNN Architecture
 
-✨ Features
+🔹 TensorFlow
 
-- 👤 Real vs Fake Face Detection
-- 📸 CNN Architecture
-- 🤖 TensorFlow
-- 🧠 Deep Learning
+🔹 OpenCV
 
-**Tech Stack**
+🔹 Image Processing
+
+🔹 Deep Learning
+
+<br>
+
+### 🛠 Tech Stack
 
 `TensorFlow`
-
 `Python`
-
 `CNN`
-
 `OpenCV`
 
 </td>
@@ -429,56 +531,106 @@ Ask Me About:
 </table>
 
 ---
-<h2 align="center">🏆 Achievements & Certifications</h2>
+<h2 align="center">🏆 Achievements</h2>
 
-<div align="center">
+<table width="100%">
 
-<img src="https://img.shields.io/badge/Microsoft-AI%20Skills-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<tr>
 
-<img src="https://img.shields.io/badge/Deloitte-GenW.AI%20Top%2060-6D28D9?style=for-the-badge"/>
+<td width="33%">
 
-<img src="https://img.shields.io/badge/Google-Computer%20Networking-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+### 🏅 Certifications
 
-<img src="https://img.shields.io/badge/Adobe-UI%2FUX%20Certified-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+✅ Microsoft AI Skills
 
-</div>
+✅ Deloitte GenW.AI
 
-<br>
+✅ Google Networking
 
-### 🎖 Highlights
+✅ Adobe UI/UX
 
-🏆 AI & Data Science Intern @ Zidio Development
+</td>
 
-🏆 Built multiple AI-powered applications
+<td width="33%">
 
-🏆 Passionate about Machine Learning & Data Science
+### 🚀 Highlights
 
-🏆 Strong interest in LLM Applications
+⭐ AI & DS Intern
+
+⭐ DataLens
+
+⭐ CredGuard
+
+⭐ AI Projects
+
+</td>
+
+<td width="33%">
+
+### 🎯 Interests
+
+🤖 AI
+
+📊 Data Science
+
+⚡ FastAPI
+
+🧠 LLMs
+
+</td>
+
+</tr>
+
+</table>
 
 ---
-## 💼 Experience
+<h2 align="center">💼 Experience</h2>
 
-```text
-May 2025 ─────────────────────────────── Jul 2025
+<table width="100%">
 
-🤖 AI & Data Science Intern
+<tr>
 
-🏢 Zidio Development
+<td width="20%" align="center">
 
-• Built end-to-end analytics pipelines
+🤖
 
-• Worked on Machine Learning models
+### Zidio
 
-• Feature Engineering
+May 2025
 
-• Time-Series Forecasting
+↓
 
-• FastAPI APIs
+Jul 2025
 
-• Automated ETL Pipelines
-```
+</td>
 
+<td width="80%">
+
+## AI & Data Science Intern
+
+✔ Built Machine Learning Pipelines
+
+✔ Automated ETL Workflows
+
+✔ Feature Engineering
+
+✔ Time Series Forecasting
+
+✔ FastAPI APIs
+
+✔ Data Analytics Dashboards
+
+✔ Model Optimization
+
+✔ Data Cleaning & EDA
+
+</td>
+
+</tr>
+
+</table>
 ---
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
