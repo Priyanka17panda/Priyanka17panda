@@ -138,7 +138,7 @@ class PriyankaPanda:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,12,19,24"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,12,19,24"/>
 
 </div>
 
