@@ -10,11 +10,10 @@
 </div>
 
 <div align="center">
-
+        
 # Hi 👋 I'm Priyanka Panda
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=9F7AEA&center=true&vCenter=true&width=850&lines=Data+Scientist;AI%2FML+Engineer;Python+%7C+Java+Developer;Building+AI+Applications;Always+Learning+Something+New+%F0%9F%9A%80" />
-
 </div>
 
 ---
@@ -22,24 +21,6 @@
 <div align="center">
 
 ### ✨ Turning Data into Intelligent Solutions
-
-</div>
-
----
-
-<div align="center">
-
-<a href="https://komarev.com/ghpvc/?username=Priyanka17panda">
-<img src="https://komarev.com/ghpvc/?username=Priyanka17panda&label=Profile%20Views&color=8A2BE2&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Priyanka17panda">
-<img src="https://img.shields.io/github/followers/Priyanka17panda?logo=github&style=for-the-badge&color=8A2BE2"/>
-</a>
-
-<a href="https://github.com/Priyanka17panda?tab=repositories">
-<img src="https://img.shields.io/badge/Open%20Source-Love-purple?style=for-the-badge"/>
-</a>
 
 </div>
 
