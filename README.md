@@ -69,9 +69,21 @@
 
 ---
 
-# 🌸 About Me
+# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="42"> My Tech Stack 
 
-<img align="right" width="400" src="https://skillicons.dev/icons?i=python,java,mysql,aws,fastapi,tensorflow,pytorch,sklearn,opencv,git,github,vscode,html,css,javascript,plotly&perline=4"/>
+<table align="right">
+<tr>
+<td align="center">
+
+<img width="400" src="https://skillicons.dev/icons?i=python,java,mysql,aws,fastapi,tensorflow,pytorch,sklearn,opencv,git,github,vscode,html,css,javascript,plotly&perline=4"/>
+
+<br><br>
+
+<img width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</td>
+</tr>
+</table>
 
 ```python
 class PriyankaPanda:
@@ -117,49 +129,21 @@ class PriyankaPanda:
 
 # 💜 A Little More About Me
 
-- 🎓 Final Year **Computer Science Engineering** student at **VIT Bhopal**
+- 🎓 Final Year **Computer Science Engineering** student at **VIT Bhopal** with **9.09 CGPA**
 
-- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
+- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, **LLMs**, **Data Science** and **System Design**
 
-- 💻 Love building real-world AI products from **data preprocessing** to **deployment**
-
-- 🚀 Exploring scalable backend development using **FastAPI**
+- 💻 Been an AI & Data Science Intern @ **Zidio Development**
+  
+- 📊 Working on Projects like:
+  🚀 **DataLens**
+  💳 **CredGuard**
 
 - 📊 Interested in solving business problems through **analytics and intelligent systems**
 
-- 🌱 Currently improving my knowledge in **LLMs**, **Deep Learning**, and **System Design**
+- 🌱 Exploring scalable backend development using **FastAPI**
 
 - ☕ Coffee + Music + Coding = Perfect Productivity
-
----
-
-# 🚀 Current Focus
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-📊 Building AI Powered Applications
-
-█████████████████████░░░░ 85%
-
-🧠 Machine Learning
-
-██████████████████████░░ 90%
-
-📈 Data Science
-
-█████████████████████░░░ 88%
-
-⚡ FastAPI Backend
-
-██████████████████░░░░░░ 78%
-
-🤖 Large Language Models
-
-████████████████░░░░░░░░ 70%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 ---
 
@@ -176,42 +160,54 @@ class PriyankaPanda:
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,12,19,24"/>
 
 </div>
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28"> About Me
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-```yaml
-Name: Priyanka Panda
+<h2>🚀 Current Focus</h2>
 
-Role: Data Scientist | AI/ML Engineer
+<table>
+<tr>
+<td width="50%">
 
-Education:
-  🎓 B.Tech CSE @ VIT Bhopal
-  📈 CGPA : 9.09
+### 🤖 Machine Learning
+`██████████████████░░` **90%**
 
-Experience:
-  🤖 AI & Data Science Intern @ Zidio Development
+Building and experimenting with ML models.
 
-Currently Building:
-  🚀 DataLens
-  💳 CredGuard
+</td>
 
-Learning:
-  🧠 Large Language Models
-  ⚡ FastAPI
-  ☁ Backend Development
-  📊 Data Analytics
+<td width="50%">
 
-Ask Me About:
-  • Python
-  • Machine Learning
-  • Data Science
-  • Java
-  • NLP
-```
-<br clear="right"/>
+### 📊 Data Science
+`█████████████████░░░` **88%**
+
+EDA, visualization, insights & predictive analytics.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Large Language Models
+`███████████████░░░░░` **78%**
+
+Exploring AI applications and intelligent systems.
+
+</td>
+
+<td width="50%">
+
+### ⚡ FastAPI & Backend
+`██████████████░░░░░░` **70%**
+
+Building scalable APIs and AI-powered backends.
+
+</td>
+</tr>
+</table>
 
 ---
+
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
